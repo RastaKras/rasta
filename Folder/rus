@@ -1,12 +1,12 @@
 ﻿{
-	"defence": "Defence",
+	"defence": "Защита",
 	"econ-aff": "Economic affairs",
-	"education": "Education",
-	"env-pro": "Environmental protection",
+	"education": "Обучение",
+	"env-pro": "Общественная защита\n",
 	"gen-pub": "General public services",
 	"hc-am": "Housing and community amenities",
-	"health": "Health",
+	"health": "Здоровье",
 	"pub-os": "Public order and safety",
 	"rcr": "Recreation, culture and religion",
-	"soc-pro": "Social protection"
+	"soc-pro": "Общественная защита"
 }

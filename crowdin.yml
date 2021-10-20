@@ -1,0 +1,3 @@
+files:
+  - source: /*json
+    translation: /Folder/%three_letters_code%

@@ -3,4 +3,4 @@ files:
     translation: /Folder/%three_letters_code%
   - source: /README.md
     translation: /goPowerRangers/%language%/%locale_with_underscore%
-    update_option: /update_as_unapproved
+    update_option: update_as_unapproved

@@ -1,19 +1,7 @@
-preserve_hierarchy: true
-
-
 files:
-  - source: /all_translations.csv
-    "dest": /conf/**/%file_extension%.properties
-    translation: /papka/%two_letters_code%
-    translation_replace: 
-      "all_": ""
-    type: "properties"
-    multilingual_spreadsheet: 1
-    scheme: 'identifier,context,source_phrase,fr,de,uk'
   - source: /two.csv
-    dest: /conf/**/%file_extension%.properties
-    translation: /papka/%three_letters_code%
-    translation_replace: 
-      "two": "three"
-    type: "properties"
+    translation: /translation/%two_letters_code%
     scheme: 'identifier,context,source_phrase,fr'
+  - source: /all_translations.csv
+    translation: /translation/%three_letters_code%
+    scheme: 'identifier,context,source_phrase,fr,de,uk'
